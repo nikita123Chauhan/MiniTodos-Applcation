@@ -1,0 +1,30 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "email": "test@example.com",
+        "password": "password123"
+      }
+    ],
+    "todos": [
+        {
+            "id": 1,
+            "title": "Sample Todo",
+            "completed": false,
+            "userId": 1
+        },
+         {
+            "title": "singing",
+            "completed": false,
+            "userId": 1,
+            "id": 5
+        },
+        {
+            "title": "bath",
+            "completed": false,
+            "userId": 1,
+            "id": 6
+        }
+    ]
+  }
+  
